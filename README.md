@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm Harith  
 
 🌱 I’m currently learning **C++ & GitHub**  
 💻 My projects: [My Repositories](https://github.com/haredmi?tab=repositories)  
